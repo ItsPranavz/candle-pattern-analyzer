@@ -1,2 +1,2 @@
-# candle-pattern-analyzer
+# Overview
 An automatic analysis of candle patterns in stocks.
